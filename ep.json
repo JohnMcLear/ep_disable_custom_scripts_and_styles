@@ -1,0 +1,11 @@
+{
+  "parts": [
+    {
+      "name": "ep_disable_custom_scripts_and_styles",
+      "hooks": {
+        "eejsBlock_customStyles": "ep_disable_custom_scripts_and_styles/hooks:eejsBlock_customStyles",
+        "eejsBlock_customScripts": "ep_disable_custom_scripts_and_styles/hooks:eejsBlock_customScripts"
+      }
+    }
+  ]
+}
