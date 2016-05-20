@@ -1,8 +1,13 @@
 {
   "name": "ep_disable_custom_scripts_and_styles",
   "description": "Disable custom scripts and styles - useful for page optimization",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "johnyma22 (John McLear) <john@mclear.co.uk>",
-  "engines": { "node": ">= 0.4.1" },
-  "repository" : { "type" : "git", "url" : "https://github.com/JohnMcLear/ep_disable_custom_scripts_and_styles.git" }
+  "engines": {
+    "node": ">= 0.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JohnMcLear/ep_disable_custom_scripts_and_styles.git"
+  }
 }
