@@ -1,7 +1,7 @@
 {
   "name": "ep_disable_custom_scripts_and_styles",
   "description": "Disable custom scripts and styles - useful for page optimization",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "johnyma22 (John McLear) <john@mclear.co.uk>",
   "engines": {
     "node": ">= 0.4.1"
